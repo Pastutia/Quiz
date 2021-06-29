@@ -1,0 +1,42 @@
+[
+  {
+    "pytanie":"Jaka jest stolica Portugalii?",
+    "a": "Lizbona",
+    "b": "Madryt",
+    "c": "Berlin",
+    "d": "Warszawa",
+    "prawidlowa_odpowiedz": "a"
+  },
+    {
+    "pytanie":"Jaki jest symbol chemiczny srebra?",
+    "a": "Zn",
+    "b": "Ag",
+    "c": "H",
+    "d": "C",
+    "prawidlowa_odpowiedz": "b"
+  },
+    {
+    "pytanie":"Ktory miesiac ma 28 dni?",
+    "a": "marzec",
+    "b": "grudzien",
+    "c": "czerwiec",
+    "d": "luty",
+    "prawidlowa_odpowiedz": "d"
+  },
+    {
+    "pytanie":"Ile zwierzat Mojzesz zabral na arke?",
+    "a": 50,
+    "b": "wszystkie",
+    "c": "nie wiem",
+    "d": "Mojzesz nie mial arki",
+    "prawidlowa_odpowiedz": "d"
+  },
+    {
+    "pytanie":"Co znalazl Alladyn?",
+    "a": "dywan",
+    "b": "lampe dzina",
+    "c": "muche",
+    "d": "kupke piasku",
+    "prawidlowa_odpowiedz": "b"
+  }
+]
